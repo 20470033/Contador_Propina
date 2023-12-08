@@ -1,4 +1,4 @@
-// CalculatorScreen.js
+
 import React, { useState } from 'react';
 import { StatusBar, TextInput, Button, Text, View, TouchableOpacity } from 'react-native';
 

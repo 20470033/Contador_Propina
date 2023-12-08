@@ -1,4 +1,4 @@
-// PreferencesScreen.js
+
 import React, { useState } from 'react';
 import { View, Text, TextInput, Switch, TouchableOpacity } from 'react-native';
 
@@ -7,7 +7,7 @@ const PreferencesScreen = () => {
   const [soloWifi, setSoloWifi] = useState(false);
 
   const guardarPreferencias = () => {
-    // Puedes implementar la lógica de guardar preferencias aquí
+    
   };
 
   return (
